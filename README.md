@@ -8,5 +8,5 @@ Para simular uma exceção neste projeto e ver o resultado, basta passar como pa
 
 Para fazer uso do recurso, foram utilizados duas classes: 
 
-**StandadError** classe auxiliar para que contem atributos necessários para serem retornados no momento do estouro da execeção java.
+**StandadError** classe auxiliar para que contem atributos necessários para serem retornados no momento do estouro da execeção java. <br>
 **ControllerExceptionHandler** classe que possui metodos, que serão direcionados para determinada exceção.
